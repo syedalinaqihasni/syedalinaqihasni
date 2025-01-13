@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedalinaqihasni&show_icons=true&locale=en&layout=compact" alt="Syed Ali Naqi Hasni" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true&locale=en" alt="Syed Ali Naqi Hasni" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni" alt="Syed Ali Naqi Hasni" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni" alt="Syed Ali Naqi Hasni" /></p> -->
