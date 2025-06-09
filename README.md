@@ -47,6 +47,22 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 - [Why I’m Moving from Shortcodes to Custom Blocks in WordPress and You Should Too…](https://syedalinaqihasni.com/blogs/why-im-moving-from-shortcodes-to-custom-blocks-in-wordpress-and-you-should-too)
 - [How to Optimize Your Commits for Efficient Project Management](https://syedalinaqihasni.com/blogs/how-to-optimize-your-commits-for-efficient-project-management)
 - [ReactPress: A Seamless React App Workflow with WordPress CMS](https://syedalinaqihasni.com/blogs/reactpress-a-seamless-react-app-workflow-with-wordpress-cms)
+- [How Small Shopify App Development Skills Can Boost Your Career](https://syedalinaqihasni.com/blogs/how-small-shopify-app-development-skills-can-boost-your-career)
+- [Top WordPress Push Notification Plugins for Web, Android &amp; iOS](https://syedalinaqihasni.com/blogs/top-wordpress-push-notification-plugins-for-web-android-ios)
+- [Unveiling the Power of Structured Data Markup Script: Elevating Your Website&#39;s SEO](https://syedalinaqihasni.com/blogs/unveiling-the-power-of-structured-data-markup-script-elevating-your-websites-seo)
+- [Integrating NodeMailer with Next.js: A Comprehensive Guide](https://syedalinaqihasni.com/blogs/integrating-nodemailer-with-nextjs-a-comprehensive-guide)
+- [Exploring GitHub CLI: A Comprehensive Guide to Streamlining Your Workflow using CLI](https://syedalinaqihasni.com/blogs/exploring-github-cli-a-comprehensive-guide-to-streamlining-your-workflow-using-cli)
+- [The Synergy of Individuality and Team Skills: Unleashing the Full Potential of Collaboration](https://syedalinaqihasni.com/blogs/the-synergy-of-individuality-and-team-skills-unleashing-the-full-potential-of-collaboration)
+- [Content Management for PWAs: Embrace the Headless CMS Approach](https://syedalinaqihasni.com/blogs/content-management-for-pwas-embrace-the-headless-cms-approach)
+- [Essential Apps Every Shopify Store Must Have](https://syedalinaqihasni.com/blogs/essential-apps-every-shopify-store-must-have)
+- [What Is an ERP Solution? How to Choose the Best One for Your WordPress?](https://syedalinaqihasni.com/blogs/what-is-an-erp-solution-how-to-choose-the-best-one-for-your-wordpress)
+- [Headless WordPress and Content Management Systems](https://syedalinaqihasni.com/blogs/headless-wordpress-and-content-management-systems)
+- [The Beginner’s Guide to Search Engin Optimization](https://syedalinaqihasni.com/blogs/the-beginners-guide-to-seo)
+- [Getting Started with Next.js and Tailwind](https://syedalinaqihasni.com/blogs/getting-started-nextjs-tailwind)
+- [State Management in React Applications](https://syedalinaqihasni.com/blogs/state-management-react)
+- [Creating Animations with Framer Motion](https://syedalinaqihasni.com/blogs/framer-motion-animations)
+- [Next.js API Routes: Building Server Endpoints](https://syedalinaqihasni.com/blogs/nextjs-api-routes)
+- [Responsive UI with Tailwind CSS](https://syedalinaqihasni.com/blogs/responsive-ui-tailwind)
 <!-- BLOG-POST-LIST:END -->
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true" alt="sboudrias" /></p> -->
