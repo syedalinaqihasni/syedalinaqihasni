@@ -42,6 +42,11 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 
 ### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
 <!-- BLOG-POST-LIST:START -->
+- [S.O.L.I.D Principles of Object Oriented Design: A Quick Guide to Enhance Your Development Standards](https://syedalinaqihasni.com/blogs/solid-principles-of-object-oriented-design-a-quick-guide-to-enhance-your-development-standards)
+- [Stay Ahead of Vulnerabilities: A Guide to GitHub Dependabot and CodeQL](https://syedalinaqihasni.com/blogs/stay-ahead-of-vulnerabilities-a-guide-to-github-dependabot-and-codeql)
+- [Why I’m Moving from Shortcodes to Custom Blocks in WordPress and You Should Too…](https://syedalinaqihasni.com/blogs/why-im-moving-from-shortcodes-to-custom-blocks-in-wordpress-and-you-should-too)
+- [How to Optimize Your Commits for Efficient Project Management](https://syedalinaqihasni.com/blogs/how-to-optimize-your-commits-for-efficient-project-management)
+- [ReactPress: A Seamless React App Workflow with WordPress CMS](https://syedalinaqihasni.com/blogs/reactpress-a-seamless-react-app-workflow-with-wordpress-cms)
 <!-- BLOG-POST-LIST:END -->
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true" alt="sboudrias" /></p> -->
