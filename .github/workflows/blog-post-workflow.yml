@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://syedalinaqihasni.com/api/rss"
+          max_post_count: 50
