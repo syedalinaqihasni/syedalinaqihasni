@@ -40,4 +40,8 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 > _"Code like nobody’s watching, ship like everyone’s waiting."_  
 > — @SyedAliNaqiHasni
 
+### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true" alt="sboudrias" /></p> -->
