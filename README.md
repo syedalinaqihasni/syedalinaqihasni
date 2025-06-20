@@ -42,9 +42,10 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 
 ### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
 <!-- BLOG-POST-LIST:START -->
+- [Why I Don&#39;t Use WordPress &lpar;And You Shouldn&#39;t Either&rpar;](https://www.syedalinaqihasni.com/blogs/why-i-do-not-use-word-press-and-you-should-not-either)
 - [S.O.L.I.D Principles of Object Oriented Design: A Quick Guide to Enhance Your Development Standards](https://www.syedalinaqihasni.com/blogs/solid-principles-of-object-oriented-design-a-quick-guide-to-enhance-your-development-standards)
 - [Stay Ahead of Vulnerabilities: A Guide to GitHub Dependabot and CodeQL](https://www.syedalinaqihasni.com/blogs/stay-ahead-of-vulnerabilities-a-guide-to-github-dependabot-and-codeql)
-- [Why I’m Moving from Shortcodes to Custom Blocks in WordPress and You Should Too…](https://www.syedalinaqihasni.com/blogs/why-im-moving-from-shortcodes-to-custom-blocks-in-wordpress-and-you-should-too)
+- [Why I&#39;m Moving from Shortcodes to Custom Blocks in WordPress and You Should Too…](https://www.syedalinaqihasni.com/blogs/why-im-moving-from-shortcodes-to-custom-blocks-in-wordpress-and-you-should-too)
 - [How to Optimize Your Commits for Efficient Project Management](https://www.syedalinaqihasni.com/blogs/how-to-optimize-your-commits-for-efficient-project-management)
 - [ReactPress: A Seamless React App Workflow with WordPress CMS](https://www.syedalinaqihasni.com/blogs/reactpress-a-seamless-react-app-workflow-with-wordpress-cms)
 - [How Small Shopify App Development Skills Can Boost Your Career](https://www.syedalinaqihasni.com/blogs/how-small-shopify-app-development-skills-can-boost-your-career)
@@ -57,7 +58,7 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 - [Essential Apps Every Shopify Store Must Have](https://www.syedalinaqihasni.com/blogs/essential-apps-every-shopify-store-must-have)
 - [What Is an ERP Solution? How to Choose the Best One for Your WordPress?](https://www.syedalinaqihasni.com/blogs/what-is-an-erp-solution-how-to-choose-the-best-one-for-your-wordpress)
 - [Headless WordPress and Content Management Systems](https://www.syedalinaqihasni.com/blogs/headless-wordpress-and-content-management-systems)
-- [The Beginner’s Guide to Search Engin Optimization](https://www.syedalinaqihasni.com/blogs/the-beginners-guide-to-seo)
+- [The Beginner&#39;s Guide to Search Engin Optimization](https://www.syedalinaqihasni.com/blogs/the-beginners-guide-to-seo)
 - [Getting Started with Next.js and Tailwind](https://www.syedalinaqihasni.com/blogs/getting-started-nextjs-tailwind)
 - [State Management in React Applications](https://www.syedalinaqihasni.com/blogs/state-management-react)
 - [Creating Animations with Framer Motion](https://www.syedalinaqihasni.com/blogs/framer-motion-animations)
