@@ -42,7 +42,7 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 
 ### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
 <!-- BLOG-POST-LIST:START -->
-- [Docusaurus: The Modern Framework for Building Documentation That Doesn’t Suck](https://www.syedalinaqihasni.com/blogs/docusaurus-modern-documentation-framework-syed-ali-naqi-hasni)
+- [Docusaurus: The Modern Framework for Building Documentation That Doesn’t Suck](https://www.syedalinaqihasni.com/blogs/docusaurus-the-modern-framework-for-building-documentation-that-does-not-suck)
 - [Why I Don&#39;t Use WordPress &lpar;And You Shouldn&#39;t Either&rpar;](https://www.syedalinaqihasni.com/blogs/why-i-do-not-use-word-press-and-you-should-not-either)
 - [S.O.L.I.D Principles of Object Oriented Design: A Quick Guide to Enhance Your Development Standards](https://www.syedalinaqihasni.com/blogs/solid-principles-of-object-oriented-design-a-quick-guide-to-enhance-your-development-standards)
 - [Stay Ahead of Vulnerabilities: A Guide to GitHub Dependabot and CodeQL](https://www.syedalinaqihasni.com/blogs/stay-ahead-of-vulnerabilities-a-guide-to-github-dependabot-and-codeql)
