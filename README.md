@@ -30,6 +30,7 @@ I'm a passionate Web Developer with 5+ years of hands-on experience building hig
 - 📧 [Email](mailto:syedalinaqihasni@gmail.com)  
 - 🐦 [Twitter / X](https://x.com/SyedHasni1997)  
 - ⓕ [Facebook](https://www.facebook.com/syedalinaqihasni)
+- 📷 [Instagram](https://www.instagram.com/syedalinaqihasni/)
 - 💼 [LinkedIn](https://linkedin.com/in/SyedAliNaqiHasni)  
 - 💬 [WhatsApp](https://api.whatsapp.com/send?phone=923162265948)
 
