@@ -74,5 +74,5 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 ![](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true" alt="sboudrias" /></p> 
+-->
