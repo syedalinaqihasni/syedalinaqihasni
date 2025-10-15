@@ -5,45 +5,54 @@ I'm a passionate Web Developer with 5+ years of hands-on experience building hig
 ---
 
 ### 🔭 I’m currently working on:
+
 - 🚀 An SEO-focused NPM package for Node.js (meta tags, schema, sitemaps, and more!)
 - 🌐 Custom web solutions using Next.js App Router and dynamic API generation
 - 🧰 Building a React scaffolding CLI tool for faster development
 
 ### 🌱 I’m currently learning:
+
 - 🧠 Advanced TypeScript patterns
 - ⚙️ CI/CD with GitHub Actions
 - 🧪 Unit and E2E testing with Jest, Vitest & Playwright
 
 ### 👯 I’m looking to collaborate on:
+
 - Open-source tools for developers (React, SEO, DX)
 - SaaS platforms and WordPress plugins
 - Custom software for startups and agencies
 
 ### 💬 Ask me about:
+
 - WordPress optimization & REST API integration
 - React performance tuning
 - Scaling frontends & SEO strategy
 - Freelancing & remote work experience
 
 ### 📫 How to reach me:
-- 🌍 [Website](https://hasnidevelopers.com)  
-- 📧 [Email](mailto:syedalinaqihasni@gmail.com)  
-- 🐦 [Twitter / X](https://x.com/SyedHasni1997)  
+
+- 🌍 [Website](https://hasnidevelopers.com)
+- 📧 [Email](mailto:syedalinaqihasni@gmail.com)
+- 🐦 [Twitter / X](https://x.com/SyedHasni1997)
 - ⓕ [Facebook](https://www.facebook.com/syedalinaqihasni)
 - 📷 [Instagram](https://www.instagram.com/syedalinaqihasni/)
-- 💼 [LinkedIn](https://linkedin.com/in/SyedAliNaqiHasni)  
+- 💼 [LinkedIn](https://linkedin.com/in/SyedAliNaqiHasni)
 - 💬 [WhatsApp](https://api.whatsapp.com/send?phone=923162265948)
 
 ### ⚡ Fun fact:
+
 When I'm not coding, I'm probably creating memes, researching politics, or experimenting with keyboard shortcuts to save 0.0001 seconds.
 
 ---
 
-> _"Code like nobody’s watching, ship like everyone’s waiting."_  
-> — @SyedAliNaqiHasni
+<!--
+> _"Code like nobody’s watching, ship like everyone’s waiting."_
+> — @SyedAliNaqiHasni -->
 
 ### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Boost Developer Efficiency with LocatorJS: A Quick Guide](https://www.syedalinaqihasni.com/blogs/boost-efficiency-with-locatorjs)
 - [Docusaurus: The Modern Framework for Building Documentation That Doesn’t Suck](https://www.syedalinaqihasni.com/blogs/docusaurus-the-modern-framework-for-building-documentation-that-does-not-suck)
 - [Why I Don&#39;t Use WordPress &lpar;And You Shouldn&#39;t Either&rpar;](https://www.syedalinaqihasni.com/blogs/why-i-do-not-use-wordpress-and-you-should-not-either)
@@ -68,12 +77,14 @@ When I'm not coding, I'm probably creating memes, researching politics, or exper
 - [Creating Animations with Framer Motion](https://www.syedalinaqihasni.com/blogs/framer-motion-animations)
 - [Next.js API Routes: Building Server Endpoints](https://www.syedalinaqihasni.com/blogs/nextjs-api-routes)
 - [Responsive UI with Tailwind CSS](https://www.syedalinaqihasni.com/blogs/responsive-ui-tailwind)
-<!-- BLOG-POST-LIST:END -->
-<!--
+  <!-- BLOG-POST-LIST:END -->
+  <!--
+
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true" alt="sboudrias" /></p> 
 -->
