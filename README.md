@@ -44,6 +44,34 @@ I’m a passionate **Web Developer** with 5+ years of hands-on experience buildi
 When I’m not coding, I’m probably **creating memes**, **researching politics**, or experimenting with **keyboard shortcuts** to save 0.0001 seconds.
 
 ---
+<h2 align="center">Statistics 📈 </h2>
+<p align="center">
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mudassirraza912&show_icons=true&theme=tokyonight" />     
+<!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassirraza912&show_icons=true&theme=tokyonight" /> -->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mudassirraza912&layout=compact&langs_count=8&theme=algolia"/>
+<p/>
+
+
+<h2 align="center">Languages</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&layout=compact&theme=tokyonight" />
+<p/> 
+
+
+
+<!-- --- -->
+
+<!-- <h2 align="center">Contribution Graph 📊</h2>
+<img src="https://activity-graph.herokuapp.com/graph?username=syedalinaqihasni&theme=chartreuse-dark" />   -->
+
+  
+  
+ <!--
+## 🏆 GitHub Trophies
+<p align="center"> 
+<img width="700px" src="https://github-profile-trophy.vercel.app/?username=syedalinaqihasni&theme=radical&no-frame=false&no-bg=true&margin-w=5" />     
+</p>-->
+
 
 <!--
 > _"Code like nobody’s watching, ship like everyone’s waiting."_
