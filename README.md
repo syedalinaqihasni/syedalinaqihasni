@@ -1,33 +1,33 @@
 ## Hi there 👋 I'm Syed Ali Naqi Hasni
 
-I'm a passionate Web Developer with 5+ years of hands-on experience building high-performance, scalable web applications using **React.js**, **Next.js**, **WordPress**, and **Node.js**. Currently leading projects at **eSpark Talent** and running my own venture **Hasni Developers**.
+I’m a passionate **Web Developer** with 5+ years of hands-on experience building high-performance, scalable web applications using **React.js**, **Next.js**, **WordPress**, and **Node.js**. I currently lead projects at **[@eSpark-Consultants](https://github.com/eSpark-Consultants)**  and run my own venture **[@Hasni-Developers](https://github.com/Hasni-Developers)**, delivering custom web solutions and developer tools.
 
 ---
 
 ### 🔭 I’m currently working on:
 
-- 🚀 An SEO-focused NPM package for Node.js (meta tags, schema, sitemaps, and more!)
-- 🌐 Custom web solutions using Next.js App Router and dynamic API generation
-- 🧰 Building a React scaffolding CLI tool for faster development
+- 🚀 An SEO-focused **NPM package** for Node.js (meta tags, schema, sitemaps, and more!)
+- 🌐 **Custom web applications** using Next.js App Router and dynamic API generation
+- 🧰 A **React scaffolding CLI tool** to speed up development workflows
 
 ### 🌱 I’m currently learning:
 
-- 🧠 Advanced TypeScript patterns
-- ⚙️ CI/CD with GitHub Actions
-- 🧪 Unit and E2E testing with Jest, Vitest & Playwright
+- 🧠 Advanced **TypeScript patterns**
+- ⚙️ **CI/CD pipelines** with GitHub Actions
+- 🧪 **Unit & E2E testing** with Jest, Vitest, and Playwright
 
 ### 👯 I’m looking to collaborate on:
 
-- Open-source tools for developers (React, SEO, DX)
-- SaaS platforms and WordPress plugins
-- Custom software for startups and agencies
+- Open-source **developer tools** (React, SEO, DX)
+- **SaaS platforms** and WordPress plugins
+- **Custom software solutions** for startups and agencies
 
 ### 💬 Ask me about:
 
-- WordPress optimization & REST API integration
-- React performance tuning
-- Scaling frontends & SEO strategy
-- Freelancing & remote work experience
+- **WordPress optimization** & REST API integration
+- **React performance tuning**
+- **Scaling frontends** & SEO strategies
+- Freelancing & **remote work experience**
 
 ### 📫 How to reach me:
 
@@ -41,7 +41,7 @@ I'm a passionate Web Developer with 5+ years of hands-on experience building hig
 
 ### ⚡ Fun fact:
 
-When I'm not coding, I'm probably creating memes, researching politics, or experimenting with keyboard shortcuts to save 0.0001 seconds.
+When I’m not coding, I’m probably **creating memes**, **researching politics**, or experimenting with **keyboard shortcuts** to save 0.0001 seconds.
 
 ---
 
