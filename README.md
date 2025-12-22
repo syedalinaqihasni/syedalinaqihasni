@@ -55,7 +55,6 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&layout=compact&theme=tokyonight" />
 <p/> 
----
 
 <!-- --- -->
 
@@ -71,10 +70,10 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <!--
 > _"Code like nobody’s watching, ship like everyone’s waiting."_
 > — @SyedAliNaqiHasni -->
-
+<!--
 ### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
 
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START 
 
 - [Boost Developer Efficiency with LocatorJS: A Quick Guide](https://www.syedalinaqihasni.com/blogs/boost-efficiency-with-locatorjs)
 - [Docusaurus: The Modern Framework for Building Documentation That Doesn’t Suck](https://www.syedalinaqihasni.com/blogs/docusaurus-the-modern-framework-for-building-documentation-that-does-not-suck)
@@ -99,7 +98,7 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 - [State Management in React Applications](https://www.syedalinaqihasni.com/blogs/state-management-react)
 - [Creating Animations with Framer Motion](https://www.syedalinaqihasni.com/blogs/framer-motion-animations)
 - [Next.js API Routes: Building Server Endpoints](https://www.syedalinaqihasni.com/blogs/nextjs-api-routes)
-- [Responsive UI with Tailwind CSS](https://www.syedalinaqihasni.com/blogs/responsive-ui-tailwind)
+- [Responsive UI with Tailwind CSS](https://www.syedalinaqihasni.com/blogs/responsive-ui-tailwind)-->
   <!-- BLOG-POST-LIST:END -->
   <!--
 
