@@ -51,10 +51,10 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mudassirraza912&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
 
-<h2 align="center">Languages</h2>
+<!-- <h2 align="center">Languages</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&layout=compact&theme=tokyonight" />
-<p/> 
+<p/>  -->
 
 <!-- --- -->
 
