@@ -61,8 +61,7 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 
 ## 🏆 GitHub Trophies
 <p align="center"> 
-<img width="700px" src="https://github-profile-trophy.vercel.app/?username=syedalinaqihasni&theme=radical&no-frame=false&no-bg=true&margin-w=5" />     
-</p>
+<img width="700px" src="https://github-profile-trophy.vercel.app/?username=syedalinaqihasni&theme=radical&no-frame=false&no-bg=true&margin-w=5" />  </p>
 
 
 > _"Code like nobody’s watching, ship like everyone’s waiting."_
