@@ -45,17 +45,12 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 
 ---
 <h2 align="center">Statistics 📈 </h2>
-<p align="center">
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mudassirraza912&show_icons=true&theme=tokyonight" />     
- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassirraza912&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mudassirraza912&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">     
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syedalinaqihasni&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
 
-> _"Code like nobody’s watching, ship like everyone’s waiting."_
-> — @SyedAliNaqiHasni -->
-
 ### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
-
  
 <!-- BLOG-POST-LIST:START -->
 - [Boost Developer Efficiency with LocatorJS: A Quick Guide](https://www.syedalinaqihasni.com/blogs/boost-efficiency-with-locatorjs)
@@ -85,11 +80,16 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
   <!-- BLOG-POST-LIST:END -->
   <!--
 
-### 📊 GitHub Stats:
+<h3 align="center">📊 GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true&theme=dark&hide_border=true" height="165px"  />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true" alt="sboudrias" /></p> 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=syedalinaqihasni&theme=dark&hide_border=true" height="165px" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&layout=compact&theme=dark&hide_border=true" height="165px" />
+</p>
