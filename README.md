@@ -47,34 +47,31 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Mudassirraza912&show_icons=true&theme=tokyonight" />     
-<!-- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassirraza912&show_icons=true&theme=tokyonight" /> -->
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Mudassirraza912&show_icons=true&theme=tokyonight" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mudassirraza912&layout=compact&langs_count=8&theme=algolia"/>
 <p/>
 
-<!-- <h2 align="center">Languages</h2>
+<h2 align="center">Languages</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&layout=compact&theme=tokyonight" />
-<p/>  -->
+<p/>
 
-<!-- --- -->
+<h2 align="center">Contribution Graph 📊</h2>
+<img src="https://activity-graph.herokuapp.com/graph?username=syedalinaqihasni&theme=chartreuse-dark" />
 
-<!-- <h2 align="center">Contribution Graph 📊</h2>
-<img src="https://activity-graph.herokuapp.com/graph?username=syedalinaqihasni&theme=chartreuse-dark" />   -->
-
- <!--
 ## 🏆 GitHub Trophies
 <p align="center"> 
 <img width="700px" src="https://github-profile-trophy.vercel.app/?username=syedalinaqihasni&theme=radical&no-frame=false&no-bg=true&margin-w=5" />     
-</p>-->
+</p>
 
-<!--
+
 > _"Code like nobody’s watching, ship like everyone’s waiting."_
 > — @SyedAliNaqiHasni -->
-<!--
+
 ### Blog posts from [Syedalinaqihasni.com](https://Syedalinaqihasni.com)
 
- BLOG-POST-LIST:START 
-
+ 
+<!-- BLOG-POST-LIST:START -->
 - [Boost Developer Efficiency with LocatorJS: A Quick Guide](https://www.syedalinaqihasni.com/blogs/boost-efficiency-with-locatorjs)
 - [Docusaurus: The Modern Framework for Building Documentation That Doesn’t Suck](https://www.syedalinaqihasni.com/blogs/docusaurus-the-modern-framework-for-building-documentation-that-does-not-suck)
 - [Why I Don&#39;t Use WordPress &lpar;And You Shouldn&#39;t Either&rpar;](https://www.syedalinaqihasni.com/blogs/why-i-do-not-use-wordpress-and-you-should-not-either)
@@ -98,7 +95,7 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 - [State Management in React Applications](https://www.syedalinaqihasni.com/blogs/state-management-react)
 - [Creating Animations with Framer Motion](https://www.syedalinaqihasni.com/blogs/framer-motion-animations)
 - [Next.js API Routes: Building Server Endpoints](https://www.syedalinaqihasni.com/blogs/nextjs-api-routes)
-- [Responsive UI with Tailwind CSS](https://www.syedalinaqihasni.com/blogs/responsive-ui-tailwind)-->
+- [Responsive UI with Tailwind CSS](https://www.syedalinaqihasni.com/blogs/responsive-ui-tailwind)
   <!-- BLOG-POST-LIST:END -->
   <!--
 
@@ -109,4 +106,4 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true" alt="sboudrias" /></p> 
--->
+
