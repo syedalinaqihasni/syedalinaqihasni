@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Syed Ali Naqi Hasni
 
-I’m a passionate **Web Developer** with 5+ years of hands-on experience building high-performance, scalable web applications using **React.js**, **Next.js**, **WordPress**, and **Node.js**. I currently lead projects at **[@eSpark-Consultants](https://github.com/eSpark-Consultants)**  and run my own venture **[@Hasni-Developers](https://github.com/Hasni-Developers)**, delivering custom web solutions and developer tools.
+I’m a passionate **Web Developer** with 5+ years of hands-on experience building high-performance, scalable web applications using **React.js**, **Next.js**, **WordPress**, and **Node.js**. I currently buling a samll venture **[@Hasni-Developers](https://github.com/Hasni-Developers)**, delivering custom web solutions and developer tools to my clients.
 
 ---
 
