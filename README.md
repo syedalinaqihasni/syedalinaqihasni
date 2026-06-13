@@ -49,7 +49,7 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <a href="https://gitroll.io/profile/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2?theme=light" alt="GitRoll Profile Badge"/></a>
 <p/>
 
-### Blog posts from [https://syedalinaqihasni.vercel.app](https://https://syedalinaqihasni.vercel.app)
+### Blog posts from [https://syedalinaqihasni.vercel.app](https://syedalinaqihasni.vercel.app)
  
 <!-- BLOG-POST-LIST:START -->
 - [Boost Developer Efficiency with LocatorJS: A Quick Guide](https://syedalinaqihasni.vercel.app/blogs/boost-efficiency-with-locatorjs)
