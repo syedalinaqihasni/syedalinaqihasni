@@ -46,7 +46,7 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 ---
 <h2 align="center">Statistics 📈 </h2>
 <p align="center">     
-<a href="https://gitroll.io/profile/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2?theme=light" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2?theme=dark" alt="GitRoll Profile Badge"/></a>
 <p/>
 
 ### Blog posts from [https://syedalinaqihasni.vercel.app](https://syedalinaqihasni.vercel.app)
