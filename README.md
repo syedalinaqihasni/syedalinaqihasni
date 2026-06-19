@@ -3,6 +3,7 @@
 I’m a passionate **Web Developer** with 5+ years of hands-on experience building high-performance, scalable web applications using **React.js**, **Next.js**, **WordPress**, and **Node.js**. I currently buling a samll venture **[@Hasni-Developers](https://github.com/Hasni-Developers)**, delivering custom web solutions and developer tools to my clients.
 
 ---
+<!-- <img src="https://committers-top-card.vercel.app/api/image?user=syedalinaqihasni&country=pakistan" /> -->
 
 ### 🔭 I’m currently working on:
 
@@ -48,6 +49,9 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <p align="center">     
 <a href="https://gitroll.io/profile/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2?theme=dark" alt="GitRoll Profile Badge"/></a>
 <p/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni)
+![Streak](https://streak-stats.demolab.com/?user=syedalinaqihasni)
 
 ### Blog posts from [https://syedalinaqihasni.vercel.app](https://syedalinaqihasni.vercel.app)
  
