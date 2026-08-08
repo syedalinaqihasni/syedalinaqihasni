@@ -49,9 +49,13 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <p align="center">     
 <a href="https://gitroll.io/profile/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2?theme=dark" alt="GitRoll Profile Badge"/></a>
 <p/>
-<p align="center">  
-![Streak](https://streak-stats.demolab.com/?user=syedalinaqihasni)
-</p>  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=syedalinaqihasni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Blog posts from [https://syedalinaqihasni.vercel.app](https://syedalinaqihasni.vercel.app)
  
@@ -83,16 +87,4 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
   <!-- BLOG-POST-LIST:END -->
   <!--
 
-<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&show_icons=true&theme=dark&hide_border=true" height="165px"  />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedalinaqihasni&theme=dark&hide_border=true" height="165px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&layout=compact&theme=dark&hide_border=true" height="165px" />
-</p>
