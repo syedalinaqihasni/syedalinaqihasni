@@ -50,6 +50,14 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 <a href="https://gitroll.io/profile/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2?theme=dark" alt="GitRoll Profile Badge"/></a>
 <p/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=syedalinaqihasni&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=syedalinaqihasni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### Blog posts from [https://syedalinaqihasni.vercel.app](https://syedalinaqihasni.vercel.app)
  
 <!-- BLOG-POST-LIST:START -->
