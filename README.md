@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Syed Ali Naqi Hasni
+# Hi there 👋 I'm Syed Ali Naqi Hasni
 
 I’m a passionate **Web Developer** with 5+ years of hands-on experience building high-performance, scalable web applications using **React.js**, **Next.js**, **WordPress**, and **Node.js**. I currently buling a samll venture **[@Hasni-Developers](https://github.com/Hasni-Developers)**, delivering custom web solutions and developer tools to my clients.
 
@@ -30,11 +30,11 @@ I’m a passionate **Web Developer** with 5+ years of hands-on experience buildi
 - **Scaling frontends** & SEO strategies
 - Freelancing & **remote work experience**
 
-## Past Projects — Websites & Applications
+## Past Projects - Websites & Applications
 
 Throughout my professional experience, I've contributed to the development of websites and web applications for different clients and business requirements. My work has primarily focused on frontend development, responsive user interfaces, and implementing application features using modern web technologies.
 
-### Websites
+### Websites [Portfolio Link](web-portfolio.md)
 
 My website development experience includes:
 
@@ -45,7 +45,7 @@ My website development experience includes:
 - API-integrated websites with dynamic content.
 - Website performance, accessibility, and responsive design improvements.
 
-### Web Applications 
+### Web Applications [Portfolio Link](web-apps-portfolio.md)
 
 My application development experience includes:
 
@@ -61,12 +61,7 @@ My application development experience includes:
 <p align="center">     
 <a href="https://gitroll.io/profile/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uC3TL4mzvYHbNOKg5ktGOAmcsTlr2?theme=dark" alt="GitRoll Profile Badge"/></a>
 <p/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+  
 ### Interested in Working Together?
 
 I'm open to suitable freelance projects, frontend development opportunities, and collaborations involving modern web technologies.
