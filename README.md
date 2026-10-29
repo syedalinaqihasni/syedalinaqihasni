@@ -30,19 +30,31 @@ I’m a passionate **Web Developer** with 5+ years of hands-on experience buildi
 - **Scaling frontends** & SEO strategies
 - Freelancing & **remote work experience**
 
-### 📫 How to reach me:
+## Past Projects — Websites & Applications
 
-- 🌍 [Website](https://hasnidevelopers.com)
-- 📧 [Email](mailto:syedalinaqihasni@gmail.com)
-- 🐦 [Twitter / X](https://x.com/SyedHasni1997)
-- ⓕ [Facebook](https://www.facebook.com/SyedAliNaqi1997)
-- 📷 [Instagram](https://www.instagram.com/syedalinaqihasni/)
-- 💼 [LinkedIn](https://linkedin.com/in/SyedAliNaqiHasni)
-- 💬 [WhatsApp](https://api.whatsapp.com/send?phone=923162265948)
+Throughout my professional experience, I've contributed to the development of websites and web applications for different clients and business requirements. My work has primarily focused on frontend development, responsive user interfaces, and implementing application features using modern web technologies.
 
-### ⚡ Fun fact:
+### Websites
 
-When I’m not coding, I’m probably **creating memes**, **researching politics**, or experimenting with **keyboard shortcuts** to save 0.0001 seconds.
+My website development experience includes:
+
+- Responsive business and corporate websites.
+- Landing pages and marketing websites.
+- Content-driven websites and blog interfaces.
+- Reusable page layouts and frontend components.
+- API-integrated websites with dynamic content.
+- Website performance, accessibility, and responsive design improvements.
+
+### Web Applications 
+
+My application development experience includes:
+
+- Interactive user interfaces and application workflows.
+- Admin panels and dashboard interfaces.
+- Forms, validation, and data management screens.
+- REST API integration and frontend state management.
+- Reusable components and maintainable frontend architecture.
+- UI improvements and bug fixes in existing applications.
 
 ---
 <h2 align="center">Statistics 📈 </h2>
@@ -54,37 +66,17 @@ When I’m not coding, I’m probably **creating memes**, **researching politics
 ![](https://github-readme-stats.vercel.app/api?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedalinaqihasni&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syedalinaqihasni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Blog posts from [https://syedalinaqihasni.vercel.app](https://syedalinaqihasni.vercel.app)
- 
-<!-- BLOG-POST-LIST:START -->
-- [Boost Developer Efficiency with LocatorJS: A Quick Guide](https://syedalinaqihasni.vercel.app/blogs/boost-efficiency-with-locatorjs)
-- [Docusaurus: The Modern Framework for Building Documentation That Doesn’t Suck](https://syedalinaqihasni.vercel.app/blogs/docusaurus-the-modern-framework-for-building-documentation-that-does-not-suck)
-- [Why I Don&#39;t Use WordPress &lpar;And You Shouldn&#39;t Either&rpar;](https://syedalinaqihasni.vercel.app/blogs/why-i-do-not-use-wordpress-and-you-should-not-either)
-- [S.O.L.I.D Principles of Object Oriented Design: A Quick Guide to Enhance Your Development Standards](https://syedalinaqihasni.vercel.app/blogs/solid-principles-of-object-oriented-design-a-quick-guide-to-enhance-your-development-standards)
-- [Stay Ahead of Vulnerabilities: A Guide to GitHub Dependabot and CodeQL](https://syedalinaqihasni.vercel.app/blogs/stay-ahead-of-vulnerabilities-a-guide-to-github-dependabot-and-codeql)
-- [Why I&#39;m Moving from Shortcodes to Custom Blocks in WordPress and You Should Too…](https://syedalinaqihasni.vercel.app/blogs/why-im-moving-from-shortcodes-to-custom-blocks-in-wordpress-and-you-should-too)
-- [How to Optimize Your Commits for Efficient Project Management](https://syedalinaqihasni.vercel.app/blogs/how-to-optimize-your-commits-for-efficient-project-management)
-- [ReactPress: A Seamless React App Workflow with WordPress CMS](https://syedalinaqihasni.vercel.app/blogs/reactpress-a-seamless-react-app-workflow-with-wordpress-cms)
-- [How Small Shopify App Development Skills Can Boost Your Career](https://syedalinaqihasni.vercel.app/blogs/how-small-shopify-app-development-skills-can-boost-your-career)
-- [Top WordPress Push Notification Plugins for Web, Android &amp; iOS](https://syedalinaqihasni.vercel.app/blogs/top-wordpress-push-notification-plugins-for-web-android-ios)
-- [Unveiling the Power of Structured Data Markup Script: Elevating Your Website&#39;s SEO](https://syedalinaqihasni.vercel.app/blogs/unveiling-the-power-of-structured-data-markup-script-elevating-your-websites-seo)
-- [Integrating NodeMailer with Next.js: A Comprehensive Guide](https://syedalinaqihasni.vercel.app/blogs/integrating-nodemailer-with-nextjs-a-comprehensive-guide)
-- [Exploring GitHub CLI: A Comprehensive Guide to Streamlining Your Workflow using CLI](https://syedalinaqihasni.vercel.app/blogs/exploring-github-cli-a-comprehensive-guide-to-streamlining-your-workflow-using-cli)
-- [The Synergy of Individuality and Team Skills: Unleashing the Full Potential of Collaboration](https://syedalinaqihasni.vercel.app/blogs/the-synergy-of-individuality-and-team-skills-unleashing-the-full-potential-of-collaboration)
-- [Content Management for PWAs: Embrace the Headless CMS Approach](https://syedalinaqihasni.vercel.app/blogs/content-management-for-pwas-embrace-the-headless-cms-approach)
-- [Essential Apps Every Shopify Store Must Have](https://syedalinaqihasni.vercel.app/blogs/essential-apps-every-shopify-store-must-have)
-- [What Is an ERP Solution? How to Choose the Best One for Your WordPress?](https://syedalinaqihasni.vercel.app/blogs/what-is-an-erp-solution-how-to-choose-the-best-one-for-your-wordpress)
-- [Headless WordPress and Content Management Systems](https://syedalinaqihasni.vercel.app/blogs/headless-wordpress-and-content-management-systems)
-- [The Beginner&#39;s Guide to Search Engin Optimization](https://syedalinaqihasni.vercel.app/blogs/the-beginners-guide-to-seo)
-- [Getting Started with Next.js and Tailwind](https://syedalinaqihasni.vercel.app/blogs/getting-started-nextjs-tailwind)
-- [State Management in React Applications](https://syedalinaqihasni.vercel.app/blogs/state-management-react)
-- [Creating Animations with Framer Motion](https://syedalinaqihasni.vercel.app/blogs/framer-motion-animations)
-- [Next.js API Routes: Building Server Endpoints](https://syedalinaqihasni.vercel.app/blogs/nextjs-api-routes)
-- [Responsive UI with Tailwind CSS](https://syedalinaqihasni.vercel.app/blogs/responsive-ui-tailwind)
-  <!-- BLOG-POST-LIST:END -->
-  <!--
+### Interested in Working Together?
 
+I'm open to suitable freelance projects, frontend development opportunities, and collaborations involving modern web technologies.
 
+If you have a project in mind, feel free to contact me through my 
+
+- 🌍 [Website](https://syedalinaqihasni.com)
+- 📧 [Email](mailto:syedalinaqihasni@gmail.com)
+- 🐦 [Twitter / X](https://x.com/SyedHasni1997)
+- ⓕ [Facebook](https://www.facebook.com/SyedAliNaqi1997)
+- 📷 [Instagram](https://www.instagram.com/syedalinaqihasni/)
+- 💼 [LinkedIn](https://linkedin.com/in/SyedAliNaqiHasni)
+- 💬 [WhatsApp](https://api.whatsapp.com/send?phone=923162265948)
